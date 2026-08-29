@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ControleRemotoLAN version="1">
+  <Server port="8787" screenSharingEnabled="True" />
+  <Layout>
+    <Action id="up" keyCode="38" macro="" enabled="True" name="▲ Y+" color="#2563EB" />
+    <Action id="down" keyCode="40" macro="" enabled="True" name="▼ Y-" color="#2563EB" />
+    <Action id="right" keyCode="39" macro="" enabled="True" name="▶ X-" color="#2563EB" />
+    <Action id="left" keyCode="37" macro="" enabled="True" name="◀ X+" color="#2563EB" />
+    <Action id="pageup" keyCode="33" macro="" enabled="True" name="Z +" color="#2563EB" />
+    <Action id="pagedown" keyCode="34" macro="" enabled="True" name="Z -" color="#2563EB" />
+    <Action id="escape" keyCode="27" macro="" enabled="True" name="Esc" color="#2563EB" />
+    <Action id="enter" keyCode="13" macro="" enabled="True" name="Enter" color="#2563EB" />
+    <Action id="key_116" keyCode="116" macro="" enabled="True" name="Spindle ON/OFF" color="#8080C0" />
+    <Action id="key_1" keyCode="1" macro="" enabled="False" name="LButton" color="#29364D" />
+    <Action id="key_2" keyCode="2" macro="" enabled="False" name="RButton" color="#29364D" />
+    <Action id="key_3" keyCode="3" macro="" enabled="False" name="Cancel" color="#29364D" />
+    <Action id="key_4" keyCode="4" macro="" enabled="False" name="MButton" color="#29364D" />
+    <Action id="key_5" keyCode="5" macro="" enabled="False" name="XButton1" color="#29364D" />
+    <Action id="key_6" keyCode="6" macro="" enabled="False" name="XButton2" color="#29364D" />
+    <Action id="key_8" keyCode="8" macro="" enabled="False" name="Backspace" color="#29364D" />
+    <Action id="key_9" keyCode="9" macro="" enabled="False" name="Tab" color="#29364D" />
+    <Action id="key_10" keyCode="10" macro="" enabled="False" name="LineFeed" color="#29364D" />
+    <Action id="key_12" keyCode="12" macro="" enabled="False" name="Clear" color="#29364D" />
+    <Action id="key_16" keyCode="16" macro="" enabled="False" name="ShiftKey" color="#29364D" />
+    <Action id="key_17" keyCode="17" macro="" enabled="False" name="ControlKey" color="#29364D" />
+    <Action id="key_18" keyCode="18" macro="" enabled="False" name="Menu" color="#29364D" />
+    <Action id="key_19" keyCode="19" macro="" enabled="False" name="Pause" color="#29364D" />
+    <Action id="key_20" keyCode="20" macro="" enabled="False" name="Caps Lock" color="#29364D" />
+    <Action id="key_21" keyCode="21" macro="" enabled="False" name="KanaMode" color="#29364D" />
+    <Action id="key_23" keyCode="23" macro="" enabled="False" name="JunjaMode" color="#29364D" />
+    <Action id="key_24" keyCode="24" macro="" enabled="False" name="FinalMode" color="#29364D" />
+    <Action id="key_25" keyCode="25" macro="" enabled="False" name="HanjaMode" color="#29364D" />
+    <Action id="key_28" keyCode="28" macro="" enabled="False" name="IMEConvert" color="#29364D" />
+    <Action id="key_29" keyCode="29" macro="" enabled="False" name="IMENonconvert" color="#29364D" />
+    <Action id="key_30" keyCode="30" macro="" enabled="False" name="IMEAceept" color="#29364D" />
+    <Action id="key_31" keyCode="31" macro="" enabled="False" name="IMEModeChange" color="#29364D" />
+    <Action id="key_32" keyCode="32" macro="" enabled="False" name="Espaço" color="#29364D" />
+    <Action id="key_35" keyCode="35" macro="" enabled="False" name="End" color="#29364D" />
+    <Action id="key_36" keyCode="36" macro="" enabled="False" name="Home" color="#29364D" />
+    <Action id="key_41" keyCode="41" macro="" enabled="False" name="Select" color="#29364D" />
+    <Action id="key_42" keyCode="42" macro="" enabled="False" name="Print" color="#29364D" />
+    <Action id="key_43" keyCode="43" macro="" enabled="False" name="Execute" color="#29364D" />
+    <Action id="key_44" keyCode="44" macro="" enabled="False" name="PrintScreen" color="#29364D" />
+    <Action id="key_45" keyCode="45" macro="" enabled="False" name="Insert" color="#29364D" />
+    <Action id="key_46" keyCode="46" macro="" enabled="False" name="Delete" color="#29364D" />
+    <Action id="key_47" keyCode="47" macro="" enabled="False" name="Help" color="#29364D" />
+    <Action id="key_48" keyCode="48" macro="" enabled="False" name="D0" color="#29364D" />
+    <Action id="key_49" keyCode="49" macro="" enabled="False" name="D1" color="#29364D" />
+    <Action id="key_50" keyCode="50" macro="" enabled="False" name="D2" color="#29364D" />
+    <Action id="key_51" keyCode="51" macro="" enabled="False" name="D3" color="#29364D" />
+    <Action id="key_52" keyCode="52" macro="" enabled="False" name="D4" color="#29364D" />
+    <Action id="key_53" keyCode="53" macro="" enabled="False" name="D5" color="#29364D" />
+    <Action id="key_54" keyCode="54" macro="" enabled="False" name="D6" color="#29364D" />
+    <Action id="key_55" keyCode="55" macro="" enabled="False" name="D7" color="#29364D" />
+    <Action id="key_56" keyCode="56" macro="" enabled="False" name="D8" color="#29364D" />
+    <Action id="key_57" keyCode="57" macro="" enabled="False" name="D9" color="#29364D" />
+    <Action id="key_65" keyCode="65" macro="" enabled="False" name="A" color="#29364D" />
+    <Action id="key_66" keyCode="66" macro="" enabled="False" name="B" color="#29364D" />
+    <Action id="key_67" keyCode="67" macro="" enabled="False" name="C" color="#29364D" />
+    <Action id="key_68" keyCode="68" macro="" enabled="False" name="D" color="#29364D" />
+    <Action id="key_69" keyCode="69" macro="" enabled="False" name="E" color="#29364D" />
+    <Action id="key_70" keyCode="70" macro="" enabled="False" name="F" color="#29364D" />
+    <Action id="key_71" keyCode="71" macro="" enabled="False" name="G" color="#29364D" />
+    <Action id="key_72" keyCode="72" macro="" enabled="False" name="H" color="#29364D" />
+    <Action id="key_73" keyCode="73" macro="" enabled="False" name="I" color="#29364D" />
+    <Action id="key_74" keyCode="74" macro="" enabled="False" name="J" color="#29364D" />
+    <Action id="key_75" keyCode="75" macro="" enabled="False" name="K" color="#29364D" />
+    <Action id="key_76" keyCode="76" macro="" enabled="False" name="L" color="#29364D" />
+    <Action id="key_77" keyCode="77" macro="" enabled="False" name="M" color="#29364D" />
+    <Action id="key_78" keyCode="78" macro="" enabled="False" name="N" color="#29364D" />
+    <Action id="key_79" keyCode="79" macro="" enabled="False" name="O" color="#29364D" />
+    <Action id="key_80" keyCode="80" macro="" enabled="False" name="P" color="#29364D" />
+    <Action id="key_81" keyCode="81" macro="" enabled="False" name="Q" color="#29364D" />
+    <Action id="key_82" keyCode="82" macro="" enabled="False" name="R" color="#29364D" />
+    <Action id="key_83" keyCode="83" macro="" enabled="False" name="S" color="#29364D" />
+    <Action id="key_84" keyCode="84" macro="" enabled="False" name="T" color="#29364D" />
+    <Action id="key_85" keyCode="85" macro="" enabled="False" name="U" color="#29364D" />
+    <Action id="key_86" keyCode="86" macro="" enabled="False" name="V" color="#29364D" />
+    <Action id="key_87" keyCode="87" macro="" enabled="False" name="W" color="#29364D" />
+    <Action id="key_88" keyCode="88" macro="" enabled="False" name="X" color="#29364D" />
+    <Action id="key_89" keyCode="89" macro="" enabled="False" name="Y" color="#29364D" />
+    <Action id="key_90" keyCode="90" macro="" enabled="False" name="Z" color="#29364D" />
+    <Action id="key_91" keyCode="91" macro="" enabled="False" name="Windows esquerda" color="#29364D" />
+    <Action id="key_92" keyCode="92" macro="" enabled="False" name="Windows direita" color="#29364D" />
+    <Action id="key_93" keyCode="93" macro="" enabled="False" name="Apps" color="#29364D" />
+    <Action id="key_95" keyCode="95" macro="" enabled="False" name="Sleep" color="#29364D" />
+    <Action id="key_96" keyCode="96" macro="" enabled="False" name="NumPad0" color="#29364D" />
+    <Action id="key_97" keyCode="97" macro="" enabled="False" name="NumPad1" color="#29364D" />
+    <Action id="key_98" keyCode="98" macro="" enabled="False" name="NumPad2" color="#29364D" />
+    <Action id="key_99" keyCode="99" macro="" enabled="False" name="NumPad3" color="#29364D" />
+    <Action id="key_100" keyCode="100" macro="" enabled="False" name="NumPad4" color="#29364D" />
+    <Action id="key_101" keyCode="101" macro="" enabled="False" name="NumPad5" color="#29364D" />
+    <Action id="key_102" keyCode="102" macro="" enabled="False" name="NumPad6" color="#29364D" />
+    <Action id="key_103" keyCode="103" macro="" enabled="False" name="NumPad7" color="#29364D" />
+    <Action id="key_104" keyCode="104" macro="" enabled="False" name="NumPad8" color="#29364D" />
+    <Action id="key_105" keyCode="105" macro="" enabled="False" name="NumPad9" color="#29364D" />
+    <Action id="key_106" keyCode="106" macro="" enabled="False" name="Multiply" color="#29364D" />
+    <Action id="key_107" keyCode="107" macro="" enabled="False" name="Add" color="#29364D" />
+    <Action id="key_108" keyCode="108" macro="" enabled="False" name="Separator" color="#29364D" />
+    <Action id="key_109" keyCode="109" macro="" enabled="False" name="Subtract" color="#29364D" />
+    <Action id="key_110" keyCode="110" macro="" enabled="False" name="Decimal" color="#29364D" />
+    <Action id="key_111" keyCode="111" macro="" enabled="False" name="Divide" color="#29364D" />
+    <Action id="key_112" keyCode="112" macro="" enabled="False" name="F1" color="#29364D" />
+    <Action id="key_113" keyCode="113" macro="" enabled="False" name="F2" color="#29364D" />
+    <Action id="key_114" keyCode="114" macro="" enabled="False" name="F3" color="#29364D" />
+    <Action id="key_115" keyCode="115" macro="" enabled="False" name="F4" color="#29364D" />
+    <Action id="key_117" keyCode="117" macro="" enabled="False" name="F6" color="#29364D" />
+    <Action id="key_118" keyCode="118" macro="" enabled="False" name="F7" color="#29364D" />
+    <Action id="key_119" keyCode="119" macro="" enabled="False" name="F8" color="#29364D" />
+    <Action id="key_120" keyCode="120" macro="" enabled="False" name="F9" color="#29364D" />
+    <Action id="key_121" keyCode="121" macro="" enabled="False" name="F10" color="#29364D" />
+    <Action id="key_122" keyCode="122" macro="" enabled="False" name="F11" color="#29364D" />
+    <Action id="key_123" keyCode="123" macro="" enabled="False" name="F12" color="#29364D" />
+    <Action id="key_124" keyCode="124" macro="" enabled="False" name="F13" color="#29364D" />
+    <Action id="key_125" keyCode="125" macro="" enabled="False" name="F14" color="#29364D" />
+    <Action id="key_126" keyCode="126" macro="" enabled="False" name="F15" color="#29364D" />
+    <Action id="key_127" keyCode="127" macro="" enabled="False" name="F16" color="#29364D" />
+    <Action id="key_128" keyCode="128" macro="" enabled="False" name="F17" color="#29364D" />
+    <Action id="key_129" keyCode="129" macro="" enabled="False" name="F18" color="#29364D" />
+    <Action id="key_130" keyCode="130" macro="" enabled="False" name="F19" color="#29364D" />
+    <Action id="key_131" keyCode="131" macro="" enabled="False" name="F20" color="#29364D" />
+    <Action id="key_132" keyCode="132" macro="" enabled="False" name="F21" color="#29364D" />
+    <Action id="key_133" keyCode="133" macro="" enabled="False" name="F22" color="#29364D" />
+    <Action id="key_134" keyCode="134" macro="" enabled="False" name="F23" color="#29364D" />
+    <Action id="key_135" keyCode="135" macro="" enabled="False" name="F24" color="#29364D" />
+    <Action id="key_144" keyCode="144" macro="" enabled="False" name="Num Lock" color="#29364D" />
+    <Action id="key_145" keyCode="145" macro="" enabled="False" name="Scroll Lock" color="#29364D" />
+    <Action id="key_160" keyCode="160" macro="" enabled="False" name="LShiftKey" color="#29364D" />
+    <Action id="key_161" keyCode="161" macro="" enabled="False" name="RShiftKey" color="#29364D" />
+    <Action id="key_162" keyCode="162" macro="" enabled="False" name="LControlKey" color="#29364D" />
+    <Action id="key_163" keyCode="163" macro="" enabled="False" name="RControlKey" color="#29364D" />
+    <Action id="key_164" keyCode="164" macro="" enabled="False" name="LMenu" color="#29364D" />
+    <Action id="key_165" keyCode="165" macro="" enabled="False" name="RMenu" color="#29364D" />
+    <Action id="key_166" keyCode="166" macro="" enabled="False" name="BrowserBack" color="#29364D" />
+    <Action id="key_167" keyCode="167" macro="" enabled="False" name="BrowserForward" color="#29364D" />
+    <Action id="key_168" keyCode="168" macro="" enabled="False" name="BrowserRefresh" color="#29364D" />
+    <Action id="key_169" keyCode="169" macro="" enabled="False" name="BrowserStop" color="#29364D" />
+    <Action id="key_170" keyCode="170" macro="" enabled="False" name="BrowserSearch" color="#29364D" />
+    <Action id="key_171" keyCode="171" macro="" enabled="False" name="BrowserFavorites" color="#29364D" />
+    <Action id="key_172" keyCode="172" macro="" enabled="False" name="BrowserHome" color="#29364D" />
+    <Action id="key_173" keyCode="173" macro="" enabled="False" name="VolumeMute" color="#29364D" />
+    <Action id="key_174" keyCode="174" macro="" enabled="False" name="VolumeDown" color="#29364D" />
+    <Action id="key_175" keyCode="175" macro="" enabled="False" name="VolumeUp" color="#29364D" />
+    <Action id="key_176" keyCode="176" macro="" enabled="False" name="MediaNextTrack" color="#29364D" />
+    <Action id="key_177" keyCode="177" macro="" enabled="False" name="MediaPreviousTrack" color="#29364D" />
+    <Action id="key_178" keyCode="178" macro="" enabled="False" name="MediaStop" color="#29364D" />
+    <Action id="key_179" keyCode="179" macro="" enabled="False" name="MediaPlayPause" color="#29364D" />
+    <Action id="key_180" keyCode="180" macro="" enabled="False" name="LaunchMail" color="#29364D" />
+    <Action id="key_181" keyCode="181" macro="" enabled="False" name="SelectMedia" color="#29364D" />
+    <Action id="key_182" keyCode="182" macro="" enabled="False" name="LaunchApplication1" color="#29364D" />
+    <Action id="key_183" keyCode="183" macro="" enabled="False" name="LaunchApplication2" color="#29364D" />
+    <Action id="key_186" keyCode="186" macro="" enabled="False" name="Oem1" color="#29364D" />
+    <Action id="key_187" keyCode="187" macro="" enabled="False" name="Oemplus" color="#29364D" />
+    <Action id="key_188" keyCode="188" macro="" enabled="False" name="Oemcomma" color="#29364D" />
+    <Action id="key_189" keyCode="189" macro="" enabled="False" name="OemMinus" color="#29364D" />
+    <Action id="key_190" keyCode="190" macro="" enabled="False" name="OemPeriod" color="#29364D" />
+    <Action id="key_191" keyCode="191" macro="" enabled="False" name="OemQuestion" color="#29364D" />
+    <Action id="key_192" keyCode="192" macro="" enabled="False" name="Oemtilde" color="#29364D" />
+    <Action id="key_219" keyCode="219" macro="" enabled="False" name="OemOpenBrackets" color="#29364D" />
+    <Action id="key_220" keyCode="220" macro="" enabled="False" name="Oem5" color="#29364D" />
+    <Action id="key_221" keyCode="221" macro="" enabled="False" name="Oem6" color="#29364D" />
+    <Action id="key_222" keyCode="222" macro="" enabled="False" name="Oem7" color="#29364D" />
+    <Action id="key_223" keyCode="223" macro="" enabled="False" name="Oem8" color="#29364D" />
+    <Action id="key_226" keyCode="226" macro="" enabled="False" name="OemBackslash" color="#29364D" />
+    <Action id="key_229" keyCode="229" macro="" enabled="False" name="ProcessKey" color="#29364D" />
+    <Action id="key_231" keyCode="231" macro="" enabled="False" name="Packet" color="#29364D" />
+    <Action id="key_246" keyCode="246" macro="" enabled="False" name="Attn" color="#29364D" />
+    <Action id="key_247" keyCode="247" macro="" enabled="False" name="Crsel" color="#29364D" />
+    <Action id="key_248" keyCode="248" macro="" enabled="False" name="Exsel" color="#29364D" />
+    <Action id="key_249" keyCode="249" macro="" enabled="False" name="EraseEof" color="#29364D" />
+    <Action id="key_250" keyCode="250" macro="" enabled="False" name="Play" color="#29364D" />
+    <Action id="key_251" keyCode="251" macro="" enabled="False" name="Zoom" color="#29364D" />
+    <Action id="key_252" keyCode="252" macro="" enabled="False" name="NoName" color="#29364D" />
+    <Action id="key_253" keyCode="253" macro="" enabled="False" name="Pa1" color="#29364D" />
+    <Action id="key_254" keyCode="254" macro="" enabled="False" name="OemClear" color="#29364D" />
+    <Action id="macro_1" keyCode="124" macro="Alt+R" enabled="True" name="Iniciar" color="#80FF80" />
+    <Action id="macro_2" keyCode="125" macro="Alt+S" enabled="True" name="Parar" color="#FF0000" />
+    <Action id="macro_3" keyCode="126" macro="Ctrl+W" enabled="True" name="Rewind" color="#FF00FF" />
+    <Action id="macro_4" keyCode="32" macro="" enabled="True" name="Feed Hold" color="#29364D" />
+    <Action id="macro_5" keyCode="128" macro="" enabled="False" name="Macro 5" color="#29364D" />
+    <Action id="macro_6" keyCode="129" macro="" enabled="False" name="Macro 6" color="#29364D" />
+    <Action id="macro_7" keyCode="130" macro="" enabled="False" name="Macro 7" color="#29364D" />
+    <Action id="macro_8" keyCode="131" macro="" enabled="False" name="Macro 8" color="#29364D" />
+    <Action id="macro_9" keyCode="132" macro="" enabled="False" name="Macro 9" color="#29364D" />
+    <Action id="macro_10" keyCode="133" macro="" enabled="False" name="Macro 10" color="#29364D" />
+    <Action id="macro_11" keyCode="134" macro="" enabled="False" name="Macro 11" color="#29364D" />
+    <Action id="macro_12" keyCode="135" macro="" enabled="False" name="Macro 12" color="#29364D" />
+  </Layout>
+  <Pairings>
+    <Token value="9bf3b72f192e688971335711f86c0d26fd1f07f4b6518a2938f569797177d431" />
+    <Token value="7f0d68f01b9bd09b954e33de3dc5ef50d9b972389450ef5a7ff3fc15419c0463" />
+    <Token value="4dd9f6c75ebe8ae296c109f9123543415b6b55876ce92b0f36778c5b3910b089" />
+  </Pairings>
+</ControleRemotoLAN>

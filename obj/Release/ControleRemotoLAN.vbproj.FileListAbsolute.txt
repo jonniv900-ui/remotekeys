@@ -1,0 +1,6 @@
+C:\Users\Jonni\Documents\ControleRemotoLAN\bin\Release\ControleRemotoLAN.exe
+C:\Users\Jonni\Documents\ControleRemotoLAN\bin\Release\ControleRemotoLAN.pdb
+C:\Users\Jonni\Documents\ControleRemotoLAN\obj\Release\ControleRemotoLAN.vbproj.AssemblyReference.cache
+C:\Users\Jonni\Documents\ControleRemotoLAN\obj\Release\ControleRemotoLAN.vbproj.CoreCompileInputs.cache
+C:\Users\Jonni\Documents\ControleRemotoLAN\obj\Release\ControleRemotoLAN.exe
+C:\Users\Jonni\Documents\ControleRemotoLAN\obj\Release\ControleRemotoLAN.pdb
